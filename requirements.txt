@@ -1,0 +1,4 @@
+streamlit==1.42.0
+pandas==2.2.3
+xlsxwriter==3.2.2
+apify-client==1.9.1
